@@ -7,6 +7,9 @@ ml-agents/
 # Ignore imported microsoft library
 Library/
 
+# Ignore temporary files
+Temp/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
