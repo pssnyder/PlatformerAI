@@ -1,0 +1,439 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.38f1 (c5d5a7410213) revision 12965287'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 32600 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+S:/Maker Stuff/Programming/AI and Machine Learning/PlatformerAI
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+65279
+Successfully changed project path to: S:/Maker Stuff/Programming/AI and Machine Learning/PlatformerAI
+S:/Maker Stuff/Programming/AI and Machine Learning/PlatformerAI
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [11140]  Target information:
+
+Player connection [11140]  * "[IP] 10.5.0.2 [Port] 0 [Flags] 2 [Guid] 4032868876 [EditorId] 4032868876 [Version] 1048832 [Id] WindowsEditor(7,MAIN-DESKTOP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11140]  * "[IP] 192.168.0.150 [Port] 0 [Flags] 2 [Guid] 4032868876 [EditorId] 4032868876 [Version] 1048832 [Id] WindowsEditor(7,MAIN-DESKTOP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [11140] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [11140] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 11.17 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.38f1 (c5d5a7410213)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path S:/Maker Stuff/Programming/AI and Machine Learning/PlatformerAI/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   NVIDIA
+    VRAM:     11996 MB
+    Driver:   32.0.15.6070
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56468
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007447 seconds.
+- Loaded All Assemblies, in  0.274 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.194 seconds
+Domain Reload Profiling: 466ms
+	BeginReloadAssembly (86ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (28ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (101ms)
+		LoadAssemblies (84ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (100ms)
+			TypeCache.Refresh (99ms)
+				TypeCache.ScanAssembly (89ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (194ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (153ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (107ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 16.817 seconds
+Refreshing native plugins compatible for Editor in 2.95 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.514 seconds
+Domain Reload Profiling: 17329ms
+	BeginReloadAssembly (111ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (17ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (31ms)
+	LoadAllAssembliesAndSetupDomain (16642ms)
+		LoadAssemblies (16516ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (186ms)
+			TypeCache.Refresh (159ms)
+				TypeCache.ScanAssembly (147ms)
+			ScanForSourceGeneratedMonoScriptInfo (17ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (515ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (374ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (262ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 3.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5467 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 105 unused Assets / (1.5 MB). Loaded Objects now: 5892.
+Memory consumption went from 214.8 MB to 213.3 MB.
+Total: 4.027100 ms (FindLiveObjects: 0.484500 ms CreateObjectMapping: 0.306400 ms MarkObjects: 2.711600 ms  DeleteObjects: 0.523100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnvironmentParametersChannel.cs: 39034218db38055177ecd1f6af61a76c -> 
+  custom:scripting/monoscript/fileName/FuseConstantsPass.cs: bd70f14614d882d0b539fc051bad6d48 -> 
+  custom:scripting/monoscript/fileName/AgentAction.cs: 68cace2ab25ab2f503ec702c0f29fabc -> 
+  custom:scripting/monoscript/fileName/MLAgentsSettings.cs: 6e14470a08253aebbd2c5f2dec83328a -> 
+  custom:scripting/monoscript/fileName/FuseActivationsPass.cs: bb1e7d8e5d93627b5fa19d8637f311e7 -> 
+  custom:scripting/monoscript/fileName/LayoutTransposesRemovalHelper.cs: 1ef4adacd6d65fbed7a51acdb298cd14 -> 
+  custom:scripting/monoscript/fileName/NCHWToNHWCPass.cs: cf17cd7aa6c932142c983483c0f470c0 -> 
+  custom:scripting/monoscript/fileName/BarracudaBackends.cs: 5b3ba7bd46678a9508570c99370f3bfb -> 
+  custom:scripting/monoscript/fileName/EnvironmentParameters.cs: e6974e7f4f19dbf2dfaa0b39de02e892 -> 
+  custom:scripting/monoscript/fileName/ModelAnalyzer.cs: 29faec7c7ff55daee604ac9832ff2f2e -> 
+  custom:scripting/monoscript/fileName/ONNXNodeWrapper.cs: 721742e4bfa2d85c195d899016d6c3b4 -> 
+  custom:scripting/monoscript/fileName/BrainParametersDrawer.cs: e14de2d244cba61e815aefa84f1c9424 -> 
+  custom:scripting/monoscript/fileName/BarracudaPixelShader.cs: e5aa4e5d31ce1aa4d5fef57e28f255e9 -> 
+  custom:scripting/precompiled-assembly-types:Google.Protobuf: b3114ef306dab5beef60f3b7fba7ca5a -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/VectorSensorComponentEditor.cs: 0bb47116fd800e1d2e8562cdae7b4dad -> 
+  custom:scripting/monoscript/fileName/SensorShapeValidator.cs: c841088a3d54991ff7da96fffd59aa01 -> 
+  custom:scripting/monoscript/fileName/Match3SensorComponent.cs: f283f53738b0e65968fdffc9f9332ef0 -> 
+  custom:scripting/monoscript/fileName/ONNXModelImporterEditor.cs: 3715e8ff09fe79dc443f3b4ce2cb91a2 -> 
+  custom:scripting/precompiled-assembly-types:Unity.Barracuda.Editor: d2a91db10fc550f0c5fd82e4dd01774b -> 
+  custom:scripting/monoscript/fileName/Debug.cs: 6434388d919560b67efd99a741f4d93e -> 
+  custom:scripting/monoscript/fileName/GridSensorBase.cs: dcf88dc1f3348b1a2bfede821fddfcd2 -> 
+  custom:scripting/monoscript/fileName/DemonstrationImporter.cs: d92babf8293f6e423c8f02b513ad493b -> 
+  custom:scripting/monoscript/fileName/DemonstrationWriter.cs: 661250b527476953e6e2d85ab8a4a120 -> 
+  custom:scripting/monoscript/fileName/Barracuda.cs: f7365b090be99898db67c6cc3ee16a4f -> 
+  custom:scripting/monoscript/fileName/ObservableAttribute.cs: 931b3556b2a61eea49d788f31dc91173 -> 
+  custom:scripting/monoscript/fileName/IBuiltInSensor.cs: 978e2d098576acfa2a7517a885aa25d5 -> 
+  custom:scripting/monoscript/fileName/TensorNames.cs: bca90f8970146f1635eabe821c357d02 -> 
+  custom:scripting/monoscript/fileName/ActuatorComponent.cs: bbeb1599030ffe2789ad8665d75afb2f -> 
+  custom:scripting/monoscript/fileName/StatsOps.cs: e1f700b099a969f99f46451c972aac68 -> 
+  custom:scripting/monoscript/fileName/CorrectOutputLayoutToMatchNHWCLayout.cs: cf17cd7aa6c932142c983483c0f470c0 -> 
+  custom:scripting/monoscript/fileName/RpcCommunicator.cs: 5fc30e900dfc7b7a99958b3ab1865009 -> 
+  custom:scripting/precompiled-assembly-types:Grpc.Core: fe930023521624fd1ee357885c68ba70 -> 
+  custom:scripting/monoscript/fileName/SimpleMultiAgentGroup.cs: 74d417577a1c3493c9cc1d43a3ad3c34 -> 
+  custom:scripting/monoscript/fileName/OutgoingMessage.cs: c88b6c258d0d23d6c7b16b02b96bf935 -> 
+  custom:scripting/monoscript/fileName/DemonstrationMetaData.cs: 41a0c80736bc15d709cdff9359b810d4 -> 
+  custom:scripting/monoscript/fileName/FuseDense3Pass.cs: 35f194a8aa8099a7eafea1aa521c8203 -> 
+  custom:scripting/monoscript/fileName/Match3SensorComponentEditor.cs: 3e1c5f77f4c9ee46020e284d120a6275 -> 
+  custom:scripting/monoscript/fileName/UnityRlInitializationOutput.cs: b69d35f772b08837eb5b12d841e368be -> 
+  custom:scripting/monoscript/fileName/LayerFusingHelper.cs: 29da1d6f82b0a99b4efbb413a2be3341 -> 
+  custom:scripting/monoscript/fileName/ONNXExtensions.cs: e98d892c68cfea8e14bf4b8a03ddba0e -> 
+  custom:scripting/monoscript/fileName/BarracudaCompute.cs: a4e4bad73bd0e62d60956df15b05ae24 -> 
+  custom:scripting/monoscript/fileName/BrainParameters.cs: a4f9a743f05899bc9eeab6d11e6857e2 -> 
+  custom:scripting/monoscript/fileName/ModelWriter.cs: 2fea11c21e1c19a629f92ef8dee072ac -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/CameraSensorComponent.cs: 0aa3f6d91525a8108b8f5c22c2a0c05e -> 
+  custom:scripting/monoscript/fileName/IDiscreteActionMask.cs: 85b6c3e76966102a42ebdb8519220d7d -> 
+  custom:scripting/monoscript/fileName/MatrixUtils.cs: 3240c47c66ee7239c82ae2d5155854d4 -> 
+  custom:scripting/monoscript/fileName/NNModel.cs: df255ec777f711ed978d835b95a30e8e -> 
+  custom:scripting/monoscript/fileName/Model.cs: 71298ee8423877a8882fae46b7f7b802 -> 
+  custom:scripting/monoscript/fileName/Match3ActuatorComponent.cs: 2f2d4289f5f99d8eea34e1dc9e979a9f -> 
+  custom:scripting/monoscript/fileName/ObservationSpec.cs: 038b27b0943433440ef43302fb61391b -> 
+  custom:scripting/monoscript/fileName/AnalyticsUtils.cs: 3e8606c44efbb2944695c530d6da22d9 -> de4aa1897372684d3a67ac55d8fc7edf
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/RewriterNCHWToNHWC.cs: cf17cd7aa6c932142c983483c0f470c0 -> 
+  custom:scripting/monoscript/fileName/Match3Actuator.cs: 1779b03eff388616932940e8f7d4eb8a -> 
+  custom:scripting/monoscript/fileName/TensorScope.cs: 853e3759ee6d6e7ecaa3263b047a7985 -> 
+  custom:scripting/monoscript/fileName/Vector2ReflectionSensor.cs: 38dfda00dcb9001b55420eba4e17d528 -> 
+  custom:scripting/monoscript/fileName/IBuiltInActuator.cs: acf63c3ab8fe72fd3f7bfdcc28286aed -> 
+  custom:scripting/monoscript/fileName/AbstractBoard.cs: 6515c3657ed1f0e24494d437691a94dd -> 
+  custom:scripting/monoscript/fileName/IHeuristicProvider.cs: c2a35d8d6d15e283fdd4ca7ab4b5298d -> 
+  custom:scripting/monoscript/fileName/QuaternionReflectionSensor.cs: 4fea4048d5576eaff8c1c5917074253c -> 
+  custom:scripting/monoscript/fileName/Move.cs: ee88ae03481061f01aa549c4a63c228f -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Helper.cs: 0db7d9a9fee8ee7534aa71c87d4faf51 -> 
+  custom:scripting/monoscript/fileName/UnityToExternal.cs: 8c487b82192c12b164d0a2e1965e6ba5 -> 
+  custom:scripting/monoscript/fileName/RayPerceptionSensorComponentBaseEditor.cs: 3f9ee4cbbf3894a41784e4b3221e8ef8 -> 
+  custom:scripting/monoscript/fileName/FloatReflectionSensor.cs: e3628f98801a75442f39ffbea0d16d83 -> 
+  custom:scripting/monoscript/fileName/GridSensorComponentEditor.cs: cde367914a5ee8581f21d91ec4b1501a -> 
+  custom:scripting/monoscript/fileName/ActionSpec.cs: 73a0fbd45e7b92a48d9c865051462e96 -> 
+  custom:scripting/monoscript/fileName/EngineConfiguration.cs: 402eaceaf51ed9225c73a20bb1843029 -> 
+  custom:scripting/monoscript/fileName/ONNXModelImporter.cs: 319075f6d92c485fcd1daadf0451f6c4 -> 
+  custom:scripting/monoscript/fileName/SpaceType.cs: c605f05898ccc6dd074f31e914c31cdf -> 
+  custom:scripting/monoscript/fileName/StackingSensor.cs: d6462c98639dfab5c197a7fba3eeada1 -> 
+  custom:scripting/monoscript/fileName/NNModelData.cs: 038df9ce6ca204aaca8a3c541f20a0a8 -> 
+  custom:scripting/monoscript/fileName/GridSensorComponent.cs: 837d16f884c6c3a385819579d6ace30a -> 
+  custom:scripting/monoscript/fileName/BarracudaComputeDebugUtils.cs: 3e5091afd1f118492f5a7146ffcc4663 -> 
+  custom:scripting/monoscript/fileName/UnityRlOutput.cs: 336690be63c082fcc5df9e6b351996a9 -> 
+  custom:scripting/monoscript/fileName/TestSetLoader.cs: bec6a12011ff403639f89dbc1e0ec6d2 -> 
+  custom:scripting/monoscript/fileName/BarracudaAnalytics.cs: 551588e07bc4c5132ff63aa52d816e52 -> 
+  custom:scripting/monoscript/fileName/TensorApplier.cs: 62ebd5802eb682f890a8a7b40cf13823 -> 
+  custom:scripting/monoscript/fileName/AgentEditor.cs: 74359cf0037db281840bb04872151010 -> 
+  custom:scripting/monoscript/fileName/MLAgentsSettingsManager.cs: 9145c205fb0591f12efa8e9cf3baacb8 -> 
+  custom:scripting/monoscript/fileName/RayPerceptionSensor.cs: 5781b381303734ec3ac8ee303c43dbc8 -> 
+  custom:scripting/monoscript/fileName/CameraSensorComponentEditor.cs: 853396db6b3ee9eafa89c468f1c57598 -> 
+  custom:scripting/monoscript/fileName/PreserveLayersPass.cs: 0b72c90730caa3503ad73b9a77c84c7b -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/RayPerceptionSensorComponentBase.cs: b114422bf48a5d993357543fa1f8c14d -> 
+  custom:scripting/precompiled-assembly-types:System.Interactive.Async: 7ea9e9ba6990253b6407e928f3d9a83f -> 
+  custom:scripting/monoscript/fileName/IRShapeInferenceAndConstantFusing.cs: 8e60e0d8a6bf2f6a84fceab8afe6f443 -> 
+  custom:scripting/monoscript/fileName/EnumReflectionSensor.cs: 1366175c0519272ec67f303a4052fef6 -> 
+  custom:scripting/monoscript/fileName/VectorActuator.cs: b5fbe448c311a626aed478f3264ad9b8 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Jobs.DenseConv.gen.cs: 46485062da51df7dbcd3c006398e7a96 -> 
+  custom:scripting/monoscript/fileName/ActuatorDiscreteActionMask.cs: f183310948a177621ab166644ece3919 -> 
+  custom:scripting/monoscript/fileName/MLAgentsSettingsProvider.cs: c1787827d996f85aa841a079c13a516d -> 
+  custom:scripting/monoscript/fileName/Header.cs: 57efca3b72e359144a00ad4f155f0cbd -> 
+  custom:scripting/monoscript/fileName/BarracudaModelExtensions.cs: 1d97c6a40990e3dc9256072c0a20fe6d -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/ReflectionSensorBase.cs: aed5b71c67af6e7eb3bd4675713265a5 -> 
+  custom:scripting/monoscript/fileName/VerboseOps.cs: 915ec9647c118f36ea2e11c1db9fb7b6 -> 
+  custom:scripting/monoscript/fileName/ConcatenateTransposesPass.cs: 3feb5d59eb91e87aa8bc33ad0e05ffa3 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Core.cs: 811f894a07f656abf4d9d6f4287a5742 -> 
+  custom:scripting/monoscript/fileName/AgentInfo.cs: 693feaa1fc57f90b3188ed2c5541ea91 -> 
+  custom:scripting/monoscript/fileName/Onnx.cs: 64689958b2a5c754dce27ed247c893c6 -> 
+  custom:scripting/monoscript/fileName/InferenceAnalytics.cs: 90c70136bffcb265caf1ba4e0a6d9c69 -> 
+  custom:scripting/monoscript/fileName/ComputeInfo.cs: a68fc1b1702fe9af3cb36ea7122d6670 -> 
+  custom:scripting/monoscript/fileName/GrpcExtensions.cs: 5a9f6885322ac66bef7baf340c72a963 -> 
+  custom:scripting/monoscript/fileName/BarracudaBackendsFactory.cs: 1e885bafe688aca7ecef33781f138533 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Jobs.Reduce.gen.cs: 2272ce655ebfa0c5f58aa5a7a0368da6 -> 
+  custom:scripting/monoscript/fileName/IActionReceiver.cs: 9bfbd026e4163bfbfd9495d2c3329d66 -> 
+  custom:scripting/monoscript/fileName/BarracudaPolicy.cs: 5746932ee7c952e3dbbc2b766c0e34c3 -> 
+  custom:scripting/monoscript/fileName/Utilities.cs: 0359a8097a7603ce5cd7dc491fa9cc5b -> 
+  custom:scripting/monoscript/fileName/BoxOverlapChecker.cs: d827141e9ae9e9afbf5a468ce4d767ec -> 
+  custom:scripting/monoscript/fileName/ModelLoader.cs: 28b83f929ed4c48526177d158472c8aa -> 
+  custom:scripting/monoscript/fileName/NNModelImporter.cs: 815c529c38dbd6f03d4096d800e7c393 -> 
+  custom:scripting/monoscript/fileName/Observation.cs: 028415f1dc409fae3f97dae996ec07d9 -> 
+  custom:scripting/precompiled-assembly-types:Unity.Barracuda: d00f88a4c731873c55ccb7d803089535 -> 
+  custom:scripting/monoscript/fileName/GeneratorImpl.cs: 1e204198bf9267bf23996ed916504942 -> 
+  custom:scripting/monoscript/fileName/BoolReflectionSensor.cs: 86196841119468c9e1a15a2cb2ea299a -> 
+  custom:scripting/monoscript/fileName/BackwardsCompatibility.cs: 384fa53ca63557c3667b47b55711d985 -> 
+  custom:scripting/monoscript/fileName/UnityAgentsException.cs: c04e4caf0b28f67b1d9502104a585702 -> 
+  custom:scripting/monoscript/fileName/CompareOpsUtils.cs: ab4ed95012242894d9d5b38c69b3b958 -> 
+  custom:scripting/monoscript/fileName/ONNXLayout.cs: 161c8de2bde376bc4962d358d2e22b39 -> 
+  custom:scripting/precompiled-assembly-types:Unity.ML-Agents.Editor: dc301091d6fc8f4b826dc7f3b2f71c9c -> 
+  custom:scripting/monoscript/fileName/BarracudaPrecompiledCompute.cs: 8b1ec3dbee115fb361542387412fbeee -> 
+  custom:scripting/monoscript/fileName/ContractToSimplerLayerPass.cs: 7b1d8d40719ab3f37fb2833ceaed7054 -> 
+  custom:scripting/monoscript/fileName/IRRankInferenceHelper.cs: 306d0410956457510b64fa9455078a2a -> 
+  custom:scripting/monoscript/fileName/VectorSensorComponent.cs: d5a7a797b653d0d72c87a11b0bbcffdd -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/Agent.cs: 94abf8b14ac2915f36268729e4c89651 -> 
+  custom:scripting/monoscript/fileName/RemoveNoOpsPass.cs: a6adc9711bae27ff0dd5d79d16191074 -> 
+  custom:scripting/monoscript/fileName/BarracudaUnsafeArrayCPU.cs: 4f3e2fb32d63f90b4c03e9d56224c4cd -> 
+  custom:scripting/monoscript/fileName/SensorHelper.cs: a0e16e3aa32b33f41a3ab232d830fa90 -> 
+  custom:scripting/monoscript/fileName/RecursionChecker.cs: 50ea1f0c3a5d37f6e86fcf7135dde153 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Jobs.Broadcast.gen.cs: 485b7d1a1250b440acd8ee9f92b8156e -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/AgentInfoActionPair.cs: 94cfcd5f74626cae5523136b796d9a01 -> 
+  custom:scripting/precompiled-assembly-types:Unity.Barracuda.BurstBLAS: c545f7a4f71db74ba7b7f1ef8c5979d1 -> 
+  custom:scripting/monoscript/fileName/BehaviorParameters.cs: bdd2199421333d09ea887765af5988bb -> 
+  custom:scripting/monoscript/fileName/ValidatePasses.cs: 61e0d8118c2239fb491d2760217570dc -> 
+  custom:scripting/monoscript/fileName/RawBytesChannel.cs: 9c964948f0dc3e80f433939b21877456 -> 
+  custom:scripting/monoscript/fileName/RewriterNHWCToNHWC.cs: cf17cd7aa6c932142c983483c0f470c0 -> 
+  custom:scripting/monoscript/fileName/RemoveUnusedLayersPass.cs: 86128794617c7f087cec689e4b8ce937 -> 
+  custom:scripting/monoscript/fileName/RenderTextureSensorComponent.cs: 3ba0bfe4b149716c1493acd5cd6887ae -> 
+  custom:scripting/monoscript/fileName/RenderTextureSensor.cs: 8c23849188ed4507fd1ceb4c321cb06e -> 
+  custom:scripting/monoscript/fileName/BurstBLAS.cs: 95e2c9a9230842a948854bf3cb5dd5a9 -> 
+  custom:scripting/monoscript/fileName/SideChannelManager.cs: 6806587282917475c7542429de58ebba -> 
+  custom:scripting/precompiled-assembly-types:System.IO.Abstractions.TestingHelpers: 3518e991c34f66a6d2c5298672ada83d -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/ShapeContractionPass.cs: cdfab093dcf08f9a2b18a106bd0c3d4c -> 
+  custom:scripting/precompiled-assembly-types:Unity.Barracuda.iOSBLAS: bae848875a35fe96f09fcc9f4e534600 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/IValidateModelPass.cs: 2d24aa037f473bb7ae053b2232dcd707 -> 
+  custom:scripting/monoscript/fileName/ModelBuilder.cs: c00a6e77a80d1441d2040d863f11be7c -> 
+  custom:scripting/monoscript/fileName/ShapeGatherReshapeToNHWCRemovePass.cs: f8b2fcc384520712a49ab4266d050fa2 -> 
+  custom:scripting/monoscript/fileName/IModelPass.cs: d258164da8a38c001a02394709752987 -> 
+  custom:scripting/monoscript/fileName/RandomNormal.cs: 64a2d0331ce8756e839fce05409a3775 -> 
+  custom:scripting/monoscript/fileName/CompareOps.cs: cd834172568bbbba69b8359b9dc1b2de -> 
+  custom:scripting/monoscript/fileName/UnityRlInitializationInput.cs: 04101d7db77424261da5109c33c4f96c -> 
+  custom:scripting/monoscript/fileName/Academy.cs: 95b53075ea407d4bd9ae16e8a5494297 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Ops.cs: 107c4fd4892b4676d25644223cb92dcb -> 
+  custom:scripting/monoscript/fileName/ApplierImpl.cs: c65b3c8c582b896d0afd09e8f9a3eb7d -> 
+  custom:scripting/monoscript/fileName/Capabilities.cs: 9c887b1db7f1f6c12a58c0ab826d75c4 -> 
+  custom:scripting/monoscript/fileName/TensorExtensions.cs: 6a61843904250de42e6df2d462df81bf -> 
+  custom:scripting/monoscript/fileName/BarracudaArray.cs: 55bec2d46f9859bb268f60508aa905a5 -> 
+  custom:scripting/monoscript/fileName/UnityRLCapabilities.cs: 23573176f78ed3a25bb9e5ec1b201335 -> 
+  custom:scripting/monoscript/fileName/ActionSegment.cs: 0cdf409b5aa8d4c25876d72b5c6a3b60 -> 
+  custom:scripting/monoscript/fileName/BarracudaModelParamLoader.cs: d7b7f36aa744d18c8b2ca6589d781e07 -> 
+  custom:scripting/monoscript/fileName/Events.cs: 9b91292bd1d9ab4399cf0974716cc922 -> 5f4025efdf5653ec81a41aae544bbc60
+  custom:scripting/monoscript/fileName/BarracudaReferenceCompute.cs: f2f8edcf69103b5c58b70af74c5c4962 -> 
+  custom:scripting/monoscript/fileName/TrainingAnalytics.cs: 3d479fc86cf278a23376a6853bb9bf87 -> 
+  custom:scripting/monoscript/fileName/BufferSensor.cs: 64a1589e56acdc4368d2dbdde3998a1b -> 
+  custom:scripting/monoscript/fileName/SensorComponent.cs: 2ed9b656a98efd7e497d7df93f612a79 -> 
+  custom:scripting/monoscript/fileName/EpisodeIdCounter.cs: 7f0b205c516adbd4c4cbfed7d27da768 -> 
+  custom:scripting/monoscript/fileName/IntReflectionSensor.cs: f1bb72db2d7881754749a0b989f4c4f6 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.MatMul.gen.cs: f76be5d9bfe7acaa4e3f774f180c655f -> 
+  custom:scripting/monoscript/fileName/IntermediateToRunnableNCHWPass.cs: ea85ab2ffd2e8aa7e75adbeb9f512250 -> 
+  custom:scripting/monoscript/fileName/UnityToExternalGrpc.cs: 70a38b34cb7b85613c12a97515252e36 -> 
+  custom:scripting/monoscript/fileName/ObservationWriter.cs: f5f7a36a683a40800f803d7050df4bca -> 
+  custom:scripting/monoscript/fileName/GenericWorker.cs: 6947ec9a7656febd17cf5a8641a6edf9 -> 
+  custom:scripting/monoscript/fileName/Match3Sensor.cs: 6e1cc75c293a31d401259e47414e35ea -> 
+  custom:scripting/monoscript/fileName/VectorSensor.cs: a177b427549247da2a58a1ef5bf9e37d -> 
+  custom:scripting/monoscript/fileName/DemonstrationDrawer.cs: c268da5a3586431a36e6e5b174dec7e7 -> 
+  custom:scripting/monoscript/fileName/DecisionRequester.cs: 7fd32f5f9f878b00ccb978c79839760f -> 
+  custom:scripting/monoscript/fileName/HalfHelper.cs: 8808e29a166b9248a49f040c5481046f -> 
+  custom:scripting/monoscript/fileName/StatsSideChannel.cs: caec61d207b9bb6f9823094b78e60730 -> 
+  custom:scripting/monoscript/fileName/MLAgentsSettingsBuildProvider.cs: 3ebc09dae2420c7134bd636753c21fe0 -> 
+  custom:scripting/monoscript/fileName/BehaviorParametersEditor.cs: 9441789e22eb0662512019adff1b7fa6 -> 
+  custom:scripting/monoscript/fileName/InplaceArray.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/RemotePolicy.cs: f6cfbbf2e56d3231255fdd8c7d0351f0 -> 
+  custom:scripting/monoscript/fileName/HeuristicPolicy.cs: 57cbca422cf473676d4edbb4ae1f8c2a -> 
+  custom:scripting/monoscript/fileName/DemonstrationMeta.cs: 381768a12df73f507735278a8362bc37 -> 
+  custom:scripting/monoscript/fileName/DemonstrationRecorder.cs: ed2de45076c629e8ca82eb1a50b07053 -> 
+  custom:scripting/monoscript/fileName/OneHotGridSensor.cs: f9ddccf0e7d2c2f971ef3ad2c5e2d19b -> 
+  custom:scripting/monoscript/fileName/CameraSensor.cs: 35bf6fdbe067d6d40695b46a1a5a6006 -> 
+  custom:scripting/monoscript/fileName/TensorAllocators.cs: c993a83b7594c50c84e65555cb90f176 -> 
+  custom:scripting/monoscript/fileName/ActuatorManager.cs: e9fb3c56f1005c347721cbd4271647a1 -> 
+  custom:scripting/monoscript/fileName/CompressionSpec.cs: 06afc60acc50da9c5436e587e703006d -> 
+  custom:scripting/monoscript/fileName/Vector3ReflectionSensor.cs: 1df0567115af47d3e07f108135a8e928 -> 
+  custom:scripting/monoscript/fileName/CorrectForBroadcast.cs: cf17cd7aa6c932142c983483c0f470c0 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/TensorProxy.cs: c6c873a58aace580d233cdbddf4b02d9 -> 
+  custom:scripting/monoscript/fileName/UnityOutput.cs: 813faeceda43b6464d6d4fbea416185d -> 
+  custom:scripting/monoscript/fileName/MultiAgentGroupIdCounter.cs: 7c915c4e860a0fb3be88942c0f175b3c -> 
+  custom:scripting/precompiled-assembly-types:Unity.Barracuda.MacBLAS: bae848875a35fe96f09fcc9f4e534600 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/StaticOpsComplexityHelper.cs: b5e81abd2428114fff98fcfee5ee0897 -> 
+  custom:scripting/monoscript/fileName/PluginInterfaces.cs: 4bca805c107aa2fc44ac69fffb1e8bb1 -> 
+  custom:scripting/monoscript/fileName/FloatPropertiesChannel.cs: 2eb11241b69806d2858f8a842b16785e -> 
+  custom:scripting/monoscript/fileName/IRShapeInferenceHelper.cs: 87065aaea4ac2a8d4d95ae5c551e26d2 -> 
+  custom:scripting/monoscript/fileName/ModelRunner.cs: 438a4d7b771d8b316ab78aa959895f05 -> 
+  custom:scripting/monoscript/fileName/Match3ActuatorComponentEditor.cs: 577925992c4c7d2f2da53ea598f70d17 -> 
+  custom:scripting/monoscript/fileName/TensorGenerator.cs: 5495f1baabaa4142635761a0a2b7839c -> 
+  custom:scripting/monoscript/fileName/BarracudaReferenceCPU.cs: 9e8de2d0599f6d7d28f92685622afcf8 -> 
+  custom:scripting/monoscript/fileName/EditorUtilities.cs: 4785b956dee2526e911aa50717c14c3c -> 
+  custom:scripting/precompiled-assembly-types:Unity.ML-Agents.CommunicatorObjects: b82139096837c6268b35a7ee7c2b588b -> 
+  custom:scripting/monoscript/fileName/CustomResetParameters.cs: 56e4ebc4eb4e63fff6eca6bb19a64386 -> 
+  custom:scripting/monoscript/fileName/Command.cs: 1565bfe5252ace7abb0e04dacbebe14c -> 
+  custom:scripting/monoscript/fileName/ONNXModelConverter.cs: 6eb0a1d82b2b50ef428ccc490014902e -> 
+  custom:scripting/monoscript/fileName/ONNXTensor.cs: c409af0be785d7c67abd8a50dc88913f -> 
+  custom:scripting/monoscript/fileName/ModelOptimizer.cs: 88e57a385dcd1ee353c83824498f1bad -> 
+  custom:scripting/monoscript/fileName/IActuator.cs: 5157affe48459344cca4d50d9837139a -> 
+  custom:scripting/monoscript/fileName/EngineConfigurationChannel.cs: 70b50c68108eb300031f15795348911f -> 
+  custom:scripting/monoscript/fileName/StringCache.cs: 18461b01a0f921b88e7536ca0e8c4301 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Jobs.Other.gen.cs: 2335a34942557f6ad1029197226f6152 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Jobs.cs: 78db96bfb251d51ba06671d376fc5167 -> 
+  custom:scripting/monoscript/fileName/DemonstrationSummary.cs: fe3984cac90871e7d04340ec6477c694 -> 
+  custom:scripting/monoscript/fileName/CommunicatorFactory.cs: 94ebd299c30ee4d46425041f60df3244 -> 
+  custom:scripting/monoscript/fileName/IntermediateToRunnableNHWCPass.cs: fc681a11d0daf63334582f097c1d4b6b -> 
+  custom:scripting/monoscript/fileName/Sampler.cs: 829277d259ef5fb1daa3a5cddcaf5f0a -> 
+  custom:scripting/monoscript/fileName/Timer.cs: 4c4033029270fd6121d5982bad1c6744 -> 2a2c41e1305ce1487e3429cff82a958a
+  custom:scripting/precompiled-assembly-types:System.IO.Abstractions: a7dffebd26a789381eff7336e77b9d85 -> 
+  custom:scripting/monoscript/fileName/StatsRecorder.cs: 3d265bbee7616c34569ff72dff9f34fa -> 
+  custom:scripting/monoscript/fileName/ICommunicator.cs: 191c9d11548342dc8dfd26793382c7b9 -> 
+  custom:scripting/monoscript/fileName/TextureAsTensorData.cs: 32afa86dbd0755f79ca5c13f6b863d35 -> 
+  custom:scripting/monoscript/fileName/Vector4ReflectionSensor.cs: 837727e8e88fbd9cb8362301f139c364 -> 
+  custom:scripting/monoscript/fileName/RayPerceptionSensorComponent3D.cs: bf63833622ffd5b914f69c5bcb1a5188 -> 
+  custom:scripting/monoscript/fileName/OpsUtils.cs: f941633825bd3125c5f407c72c6f509b -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ISensor.cs: 9603ffbb053b411c8cd7547609668024 -> 
+  custom:scripting/monoscript/fileName/UnityInput.cs: f5db012ffa84f5c5c4066fa094fc57ec -> 
+  custom:scripting/monoscript/fileName/IMultiAgentGroup.cs: d6638726dca088413a81d5e874a58578 -> 
+  custom:scripting/monoscript/fileName/PixelShaderSingleton.cs: a6fa33c6061ef0e86221afa426dfa053 -> 
+  custom:scripting/monoscript/fileName/ComputeShaderSingleton.cs: 3330d27144ef3fc5300fb246e72ba8aa -> 
+  custom:scripting/monoscript/fileName/BufferSensorComponent.cs: 0679029b98cc50c6b3c5aaa3da0c6f7e -> 
+  custom:scripting/monoscript/fileName/FuseLinearLayersPass.cs: da5f068714930bad2ae180f00dc2b97c -> 
+  custom:scripting/monoscript/fileName/RenderTextureSensorComponentEditor.cs: 5cb9cb13917b0266afecdafa38de3e32 -> 
+  custom:scripting/monoscript/fileName/UnityRlInput.cs: 7799d3e0dd65d3c9da4a302e92e841f8 -> 
+  custom:scripting/monoscript/fileName/UnityMessage.cs: e996a7923bb3295b81fbcbef50206592 -> 
+  custom:scripting/monoscript/fileName/IPolicy.cs: a3d329d816995b7e942e98608c861ce5 -> 
+  custom:scripting/monoscript/fileName/TrainingAnalyticsSideChannel.cs: 19efa6107fc4bbd82f0de33577d22e42 -> 
+  custom:scripting/monoscript/fileName/SideChannel.cs: c956d695198dba4e216f5a947ec7dfd0 -> 
+  custom:scripting/monoscript/fileName/BarracudaBurstCPU.Jobs.Activation.gen.cs: 1a7febcd97b54bac1212fb7e1f8d3b9f -> 
+  custom:scripting/monoscript/fileName/BufferSensorComponentEditor.cs: 25299582bce07bfdaaf6ca6acadd3dc0 -> 
+  custom:scripting/monoscript/fileName/Tensor.cs: 05596d9548c6a7d460e79e0ebad83cb8 -> 
+  custom:scripting/monoscript/fileName/Multinomial.cs: 31f5c66befbe3c32d428849a5302bc99 -> 
+  custom:scripting/precompiled-assembly-types:Unity.ML-Agents: db424078f573e856de073cfc7641e9b5 -> 
+  custom:scripting/monoscript/fileName/RayPerceptionSensorComponent2D.cs: 0bfe560ed06304dd9eba8e4561467593 -> 
+  custom:scripting/monoscript/fileName/IncomingMessage.cs: 515072586ffe18a74fb9fc4bcbad19f8 -> 
+  custom:scripting/precompiled-assembly-types:Unity.Barracuda.ONNX: a1e37f425d74edd0054888ca631c69ea -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
